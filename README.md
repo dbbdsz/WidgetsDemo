@@ -1,6 +1,6 @@
 # WidgetsDemo
 
-English | [简体中文](README.md)
+English | [简体中文](README_CN.md)
 
 A feature-rich iOS Widget demo project showcasing various widget types and data communication methods.
 
