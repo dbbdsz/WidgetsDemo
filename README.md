@@ -4,6 +4,50 @@ English | [简体中文](README.md)
 
 A feature-rich iOS Widget demo project showcasing various widget types and data communication methods.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/clock.png" width="200px" alt="Clock Widget"/>
+      <br />
+      <b>Clock Widget</b>
+      <br />
+      Real-time clock with lunar calendar
+    </td>
+    <td align="center">
+      <img src="screenshots/stock-chart.png" width="200px" alt="Stock Chart Widget"/>
+      <br />
+      <b>Stock Chart Widget</b>
+      <br />
+      Live stock price trends
+    </td>
+    <td align="center">
+      <img src="screenshots/progress.png" width="200px" alt="Progress Widget"/>
+      <br />
+      <b>Circular Progress Widget</b>
+      <br />
+      Goal completion tracker
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/bar-chart.png" width="200px" alt="Bar Chart Widget"/>
+      <br />
+      <b>Bar Chart Widget</b>
+      <br />
+      Weekly activity comparison
+    </td>
+    <td align="center">
+      <img src="screenshots/communication.png" width="200px" alt="Communication Widget"/>
+      <br />
+      <b>Communication Widget</b>
+      <br />
+      App-Widget data sync demo
+    </td>
+  </tr>
+</table>
+
 ## Features
 
 ### 📱 Widget Types

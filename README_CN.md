@@ -1,8 +1,52 @@
 # WidgetsDemo
 
-[English](README_EN.md) | 简体中文
+[English](README.md) | 简体中文
 
 一个功能丰富的 iOS Widget 示例项目，展示了多种小组件类型和数据通信方式。
+
+## 截图展示
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/clock.png" width="200px" alt="时钟小组件"/>
+      <br />
+      <b>时钟小组件</b>
+      <br />
+      实时时钟与农历显示
+    </td>
+    <td align="center">
+      <img src="screenshots/stock-chart.png" width="200px" alt="股票图表小组件"/>
+      <br />
+      <b>股票图表小组件</b>
+      <br />
+      实时股票价格走势
+    </td>
+    <td align="center">
+      <img src="screenshots/progress.png" width="200px" alt="进度小组件"/>
+      <br />
+      <b>圆形进度小组件</b>
+      <br />
+      目标完成度追踪
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/bar-chart.png" width="200px" alt="柱状图小组件"/>
+      <br />
+      <b>柱状图小组件</b>
+      <br />
+      每周活动数据对比
+    </td>
+    <td align="center">
+      <img src="screenshots/communication.png" width="200px" alt="通信小组件"/>
+      <br />
+      <b>通信示例小组件</b>
+      <br />
+      App-Widget 数据同步演示
+    </td>
+  </tr>
+</table>
 
 ## 功能特性
 
